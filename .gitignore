@@ -1,0 +1,23 @@
+# Do not publish commercial implementation, payment data or secrets
+.env
+.env.*
+!.env.example
+*.sqlite
+*.db
+*.pem
+*.key
+*.p12
+*.pfx
+*.zip
+*.tar
+*.tgz
+*.gz
+node_modules/
+.private/
+private/
+src/
+tests/
+examples/
+seller-materials/
+*.log
+.DS_Store
