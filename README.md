@@ -34,9 +34,6 @@ The separate commercial **WhishBridge Developer Kit v0.2.1 Beta** provides:
 - Signed site notifications, a runnable receiving-site example, and server-owned entitlements.
 - SQLite persistence for a **single persistent-server deployment**.
 - English and Arabic setup docs, security notes, and **18 offline automated tests** using a simulated Whish provider.
-
-**This is a developer reference, not a plug-and-play or Whish-certified payment gateway.** It requires an approved Whish merchant account, authorized domains, integration work, and separate provider Sandbox and production validation.
-
 ### Buy the source code
 
 [**Get WhishBridge Developer Kit on Payhip →**](https://payhip.com/b/Sfr9b)
